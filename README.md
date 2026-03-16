@@ -1,5 +1,7 @@
 # Hi, I'm Camilo 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=007585&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Automation+and+Process+Optimization;Learning+Algorithms+and+Data+Structures)
+
 Systems Engineering student and problem solver who enjoys turning everyday processes into smarter digital workflows.
 
 ## Skills
