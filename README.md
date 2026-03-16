@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Camilo 👋
 
-<!--
-**camilikok/camilikok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student and problem solver who enjoys turning everyday processes into smarter digital workflows.
 
-Here are some ideas to get you started:
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,github,linux,selenium)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🎓 Systems Engineering student
+- 🛠 Currently working in Loss Prevention at Sodimac
+- ⚙️ I like improving processes with automation and data
+- 💡 Always curious about how systems work and how to make them better
+
+## What I'm learning
+- Java (data structures, graphs, algorithms)
+- Calculus and mathematical modeling
+- Process automation (Excel, Power Automate, scripting)
+- Software design and system thinking
+
+## Things I enjoy building
+- Process automation tools
+- Data-driven solutions
+- Small systems that solve real problems
+- Experiments with code and engineering concepts
+
+## Current interests
+- Automation and workflow optimization
+- Software engineering fundamentals
+- Algorithms and data structures
+- Practical engineering projects
+
+---
+
+> I enjoy learning how systems work — and improving them.
+
+## Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=camilikok&theme=tokyonight&hide_border=true&border_radius=10&short_numbers=true&card_height=180)](https://git.io/streak-stats)
